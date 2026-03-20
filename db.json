@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": "1", "title": "Primeiro Post", "author": "Gemini" },
+    { "id": "2", "title": "Explorando o Axios", "author": "Dev" }
+  ],
+  "comments": [
+    { "id": "1", "body": "Muito bom!", "postId": "1" }
+  ],
+  "profile": { "name": "typicode" }
+}
